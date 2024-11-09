@@ -5,23 +5,17 @@ I'm a passionate Computer Science student at Cairo University, graduating in 202
 ## 🚀 Tech Stack
 
 ### 🖥️ Languages
-- **Primary**: [Java, Dart, C#]
-- **Familiar**: [Python, JavaScript]
+- ![Java](https://img.shields.io/badge/Java-%23F7B700?style=flat&logo=java&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### 📚 Frameworks & Libraries
-- **Mobile Development**: Flutter, Firebase
-- **Testing**: JUnit, Mockito
-- **Database**: SQL Server, Firestore
+- ![Flutter](https://img.shields.io/badge/Flutter-%230256D3?style=flat&logo=flutter&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCB2B?style=flat&logo=firebase&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-- **Version Control**: Git, GitHub
-- **IDEs**: VS Code, IntelliJ IDEA
-- **Others**: Command Line, Docker (or any other tools you frequently use)
-
-### 💻 Cloud & Deployment
-- **Platforms**: Firebase Hosting, Heroku (if applicable)
-- **CI/CD**: GitHub Actions (or other CI/CD tools if you use them)
-
+- ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 ## 🌟 Key Projects
