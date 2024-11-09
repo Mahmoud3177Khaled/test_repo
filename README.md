@@ -29,6 +29,19 @@ I'm a passionate Computer Science student at Cairo University, graduating in 202
 
 ### 🛠️ Database
 - ![SQL](https://img.shields.io/badge/SQL-%2307405F?style=flat&logo=mysql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-%2307405F?style=flat&logo=sqlite&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-%234F5B93?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### ☁️ Cloud
+- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCB2B?style=flat&logo=firebase&logoColor=white)
+
+### 🖥️ Operating Systems
+- ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat&logo=windows&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=white)
+
+### 🔧 Version Control
+- ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
 
 ## 🌟 Key Projects
 - **[Project Name 1](Link to Repo)**  
