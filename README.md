@@ -8,15 +8,27 @@ I'm a passionate Computer Science student at Cairo University, graduating in 202
 - ![Java](https://img.shields.io/badge/Java-%23F7B700?style=flat&logo=java&logoColor=white)
 - ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%233C8DAD?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)
 
-### 📚 Frameworks & Libraries
-- ![Flutter](https://img.shields.io/badge/Flutter-%230256D3?style=flat&logo=flutter&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCB2B?style=flat&logo=firebase&logoColor=white)
+### 🧰 Frameworks & Libraries
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)
+- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131?style=flat&logo=unreal-engine&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-### 🛠️ Tools & Platforms
-- ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 🧑‍🏫 Pedagogy
+- ![Scratch](https://img.shields.io/badge/Scratch-%23F1C40F?style=flat&logo=scratch&logoColor=white)
 
+### 🔧 Testing & Tools
+- ![JUnit](https://img.shields.io/badge/JUnit-%23F9A825?style=flat&logo=junit&logoColor=white)
+
+### 🛠️ Database
+- ![SQL](https://img.shields.io/badge/SQL-%2307405F?style=flat&logo=mysql&logoColor=white)
 
 ## 🌟 Key Projects
 - **[Project Name 1](Link to Repo)**  
