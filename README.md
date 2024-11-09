@@ -3,9 +3,26 @@
 I'm a passionate Computer Science student at Cairo University, graduating in 2026. I love building projects that solve real-world problems and exploring new technologies. Here’s a bit more about me!
 
 ## 🚀 Tech Stack
-- **Languages**: [e.g., Java, Dart, C#, Python]
-- **Frameworks & Libraries**: [e.g., Flutter, Firebase, JUnit, SQL Server]
-- **Tools & Platforms**: [e.g., GitHub, Docker, VS Code, Command Line]
+
+### 🖥️ Languages
+- **Primary**: [Java, Dart, C#]
+- **Familiar**: [Python, JavaScript]
+
+### 📚 Frameworks & Libraries
+- **Mobile Development**: Flutter, Firebase
+- **Testing**: JUnit, Mockito
+- **Database**: SQL Server, Firestore
+
+### 🛠️ Tools & Platforms
+- **Version Control**: Git, GitHub
+- **IDEs**: VS Code, IntelliJ IDEA
+- **Others**: Command Line, Docker (or any other tools you frequently use)
+
+### 💻 Cloud & Deployment
+- **Platforms**: Firebase Hosting, Heroku (if applicable)
+- **CI/CD**: GitHub Actions (or other CI/CD tools if you use them)
+
+
 
 ## 🌟 Key Projects
 - **[Project Name 1](Link to Repo)**  
